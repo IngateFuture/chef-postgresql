@@ -41,7 +41,7 @@ default["postgresql"]["initdb_options"]                  = "--locale=en_US.UTF-8
 # POSTGIS
 #------------------------------------------------------------------------------
 
-default["postgis"]["version"]                            = "1.5"
+# see postgis.rb
 
 #------------------------------------------------------------------------------
 # FILE LOCATIONS
